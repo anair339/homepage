@@ -44,6 +44,13 @@
             "filename": "pillow-10.3.0-py311h1bb38f8_1.tar.gz"
         },
         {
+            "name": "emscripten-abi",
+            "version": "3.1.45",
+            "build": "h267e887_33",
+            "filename_stem": "emscripten-abi-3.1.45-h267e887_33",
+            "filename": "emscripten-abi-3.1.45-h267e887_33.tar.gz"
+        },
+        {
             "name": "pip",
             "version": "24.3.1",
             "build": "pyh8b19718_2",
@@ -121,6 +128,13 @@
             "filename": "jedi-0.19.2-pyhd8ed1ab_1.tar.gz"
         },
         {
+            "name": "setuptools",
+            "version": "75.8.0",
+            "build": "pyhff2d567_0",
+            "filename_stem": "setuptools-75.8.0-pyhff2d567_0",
+            "filename": "setuptools-75.8.0-pyhff2d567_0.tar.gz"
+        },
+        {
             "name": "backcall",
             "version": "0.2.0",
             "build": "pyh9f0ad1d_0",
@@ -140,13 +154,6 @@
             "build": "pyhff2d567_1",
             "filename_stem": "python-dateutil-2.9.0.post0-pyhff2d567_1",
             "filename": "python-dateutil-2.9.0.post0-pyhff2d567_1.tar.gz"
-        },
-        {
-            "name": "setuptools",
-            "version": "75.6.0",
-            "build": "pyhff2d567_1",
-            "filename_stem": "setuptools-75.6.0-pyhff2d567_1",
-            "filename": "setuptools-75.6.0-pyhff2d567_1.tar.gz"
         },
         {
             "name": "fonttools",
@@ -252,13 +259,6 @@
             "build": "pyha770c72_1",
             "filename_stem": "prompt-toolkit-3.0.48-pyha770c72_1",
             "filename": "prompt-toolkit-3.0.48-pyha770c72_1.tar.gz"
-        },
-        {
-            "name": "emscripten-abi",
-            "version": "3.1.45",
-            "build": "h267e887_31",
-            "filename_stem": "emscripten-abi-3.1.45-h267e887_31",
-            "filename": "emscripten-abi-3.1.45-h267e887_31.tar.gz"
         },
         {
             "name": "asttokens",
